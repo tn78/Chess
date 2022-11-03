@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"chess88pckg","l":"Bishops"},{"p":"chess88pckg","l":"Chess"},{"p":"chess88pckg","l":"Kings"},{"p":"chess88pckg","l":"Knights"},{"p":"chess88pckg","l":"Pawns"},{"p":"chess88pckg","l":"Pieces"},{"p":"chess88pckg","l":"Queens"},{"p":"chess88pckg","l":"Rooks"}]
